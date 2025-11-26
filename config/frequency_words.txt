@@ -1,10 +1,5 @@
 DeepSeek
 
-华为
-鸿蒙
-HarmonyOS
-任正非
-
 宇树
 unitree
 王兴兴
@@ -13,16 +8,6 @@ unitree
 灵犀
 稚晖君
 彭志辉
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
 
 英伟达
 NVIDIA
@@ -39,9 +24,6 @@ openai
 ai
 !gai
 人工智能
+具身智能
 
 自动驾驶
-
-机器人
-
-科技
